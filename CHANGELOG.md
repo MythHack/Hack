@@ -1,3 +1,345 @@
+# Version 2.020
+
+- divided the vertical stroke in the pipe glyph (U+007C), italic and bold italic sets
+- modified U+007C hints in TrueType builds at 6, 7, 10, 11, 12, 13, 14 ppem italic set
+- modified U+007C hints in TrueType builds at 6, 7, 10, 14 ppem bold italic set
+- modified slant angle and stroke length (U+005C), italic and bold italic sets
+- centered U+007C and U+005C, all sets
+- modified zero (U+0030) oval fill hints in regular set
+- added Powerline glyphs to the bold, italic, and bold italic sets
+- U+2502 upper terminal to 1950, lower terminal to -530, all sets
+- U+2503 upper terminal to 1950, lower terminal to -530, all sets
+- U+250C lower terminal to -530, all sets
+- U+250D lower terminal to -530, all sets
+- U+250E lower terminal to -530, all sets
+- U+250F lower terminal to -530, all sets
+- U+2510 lower terminal to -530, all sets
+- U+2511 lower terminal to -530, all sets
+- U+2512 lower terminal to -530, all sets
+- U+2513 lower terminal to -530, all sets
+- U+2514 upper terminal to 1950, all sets
+- U+2515 upper terminal to 1950, all sets
+- U+2516 upper terminal to 1950, all sets
+- U+2517 upper terminal to 1950, all sets
+- U+2518 upper terminal to 1950, all sets
+- U+2519 upper terminal to 1950, all sets
+- U+251A upper terminal to 1950, all sets
+- U+251B upper terminal to 1950, all sets
+- U+251C upper terminal to 1950, lower terminal to -530, all sets
+- U+251D upper terminal to 1950, lower terminal to -530, all sets
+- U+251E upper terminal to 1950, lower terminal to -530, all sets
+- U+251F upper terminal to 1950, lower terminal to -530, all sets
+- U+2520 upper terminal to 1950, lower terminal to -530, all sets
+- U+2521 upper terminal to 1950, lower terminal to -530, all sets
+- U+2522 upper terminal to 1950, lower terminal to -530, all sets
+- U+2523 upper terminal to 1950, lower terminal to -530, all sets
+- U+2524 upper terminal to 1950, lower terminal to -530, all sets
+- U+2525 upper terminal to 1950, lower terminal to -530, all sets
+- U+2526 upper terminal to 1950, lower terminal to -530, all sets
+- U+2527 upper terminal to 1950, lower terminal to -530, all sets
+- U+2528 upper terminal to 1950, lower terminal to -530, all sets
+- U+2529 upper terminal to 1950, lower terminal to -530, all sets
+- U+252A upper terminal to 1950, lower terminal to -530, all sets
+- U+252B upper terminal to 1950, lower terminal to -530, all sets
+- U+252C lower terminal to -530, all sets
+- U+252D lower terminal to -530, all sets
+- U+252E lower terminal to -530, all sets
+- U+252F lower terminal to -530, all sets
+- U+2530 lower terminal to -530, all sets
+- U+2531 lower terminal to -530, all sets
+- U+2532 lower terminal to -530, all sets
+- U+2533 lower terminal to -530, all sets
+- U+2534 upper terminal to 1950, all sets
+- U+2535 upper terminal to 1950, all sets
+- U+2536 upper terminal to 1950, all sets
+- U+2537 upper terminal to 1950, all sets
+- U+2538 upper terminal to 1950, all sets
+- U+2539 upper terminal to 1950, all sets
+- U+253A upper terminal to 1950, all sets
+- U+253B upper terminal to 1950, all sets
+- U+252C upper terminal to 1950, lower terminal to -530, all sets
+- U+252D upper terminal to 1950, lower terminal to -530, all sets
+- U+253E upper terminal to 1950, lower terminal to -530, all sets
+- U+253F upper terminal to 1950, lower terminal to -530, all sets
+- U+2540 upper terminal to 1950, lower terminal to -530, all sets
+- U+2541 upper terminal to 1950, lower terminal to -530, all sets
+- U+2542 upper terminal to 1950, lower terminal to -530, all sets
+- U+2543 upper terminal to 1950, lower terminal to -530, all sets
+- U+2544 upper terminal to 1950, lower terminal to -530, all sets
+- U+2545 upper terminal to 1950, lower terminal to -530, all sets
+- U+2546 upper terminal to 1950, lower terminal to -530, all sets
+- U+2547 upper terminal to 1950, lower terminal to -530, all sets
+- U+2548 upper terminal to 1950, lower terminal to -530, all sets
+- U+2549 upper terminal to 1950, lower terminal to -530, all sets
+- U+254A upper terminal to 1950, lower terminal to -530, all sets
+- U+254B upper terminal to 1950, lower terminal to -530, all sets
+- U+2551 upper terminal to 1950, lower terminal to -530, all sets
+- U+2552 lower terminal to -530, all sets
+- U+2553 lower terminals to -530, all sets
+- U+2554 lower terminals to -530, all sets
+- U+2555 lower terminal to -530, all sets
+- U+2556 lower terminals to -530, all sets
+- U+2557 lower terminals to -530, all sets
+- U+2558 upper terminal to 1950, all sets
+- U+2558 upper terminals to 1950, all sets
+- U+2559 upper terminals to 1950, all sets
+- U+255A upper terminals to 1950, all sets
+- U+255B upper terminal to 1950, all sets
+- U+255C upper terminals to 1950, all sets
+- U+255D upper terminals to 1950, all sets
+- U+255E upper terminal to 1950, lower terminal to -530, all sets
+- U+255F upper terminals to 1950, lower terminals to -530, all sets
+- U+2560 upper terminals to 1950, lower terminals to -530, all sets
+- U+2561 upper terminal to 1950, lower terminal to -530, all sets
+- U+2562 upper terminals to 1950, lower terminals to -530, all sets
+- U+2563 upper terminals to 1950, lower terminals to -530, all sets
+- U+2564 lower terminal to -530, all sets
+- U+2565 lower terminals to -530, all sets
+- U+2566 lower terminals to -530, all sets
+- U+2567 upper terminal to 1950, all sets
+- U+2568 upper terminals to 1950, all sets
+- U+2569 upper terminals to 1950, all sets
+- U+256A upper terminal to 1950, lower terminal to -530, all sets
+- U+256B upper terminals to 1950, lower terminals to -530, all sets
+- U+256C upper terminals to 1950, lower terminals to -530, all sets
+- U+256D lower terminal to -530, all sets
+- U+256E lower terminal to -530, all sets
+- U+256F upper terminal to 1950, all sets
+- U+2570 upper terminal to 1950, all sets
+- U+2571 adjusted horizontal position and length of strokes
+- U+2572 adjusted horizontal position and length of strokes
+- U+2573 adjusted horizontal position and length of strokes
+- U+2575 upper terminal to 1950, all sets
+- U+2577 lower terminal to -530, all sets
+- U+2578 horizontal alignment of superior margin of the stroke (1 unit adjustment)
+- U+2579 upper terminal to 1950, all sets
+- U+257B lower terminal to -530, all sets
+- U+257D upper terminal to 1950, lower terminal to -530, all sets
+- U+257F upper terminal to 1950, lower terminal to -530, all sets
+- updated OpenType name table field 1 0 0
+- updated OpenType name table field 3 1 1033
+- new [Windows installer](https://github.com/source-foundry/Hack-windows-installer)
+- added line spacing adjustment shell scripts
+- added font-tables.py OpenType table reporting script
+- updated dev-versioner.py OpenType table versioning script to support UTF16 big endian encoding of nameID=5, platformID=3 name table
+
+
+# Version 2.019 (release build)
+
+ttf, otf, webfont builds
+
+- removed SVG from webfont releases
+- Corrected U+2588 glyph shape in regular set (had inappropriately small width and height)
+- decreased width U+2580 all sets
+- decreased width U+2581 all sets
+- decreased width U+2582 all sets
+- decreased width U+2583 all sets
+- decreased width U+2584 all sets
+- decreased width U+2585 all sets
+- decreased width U+2586 all sets
+- decreased width U+2857 all sets
+- adjusted left sidebearing U+2589 all sets
+- adjusted left sidebearing U+258A all sets
+- adjusted left sidebearing U+258B all sets
+- adjusted left sidebearing U+258C all sets
+- adjusted left sidebearing U+258D all sets
+- adjusted left sidebearing U+258E all sets
+- adjusted left sidebearing U+258F all sets
+- adjusted right sidebearing U+2590 all sets
+- decreased width of U+2594 all sets
+- adjusted right sidebearing U+2595 all sets
+- adjusted left sidebearing U+2596 all sets
+- adjusted right sidebearing U+2597 all sets
+- adjusted left sidebearing U+2598 all sets
+- decreased width of U+2599 all sets
+- decreased width of U+259A all sets
+- decreased width of U+259B all sets
+- decreased width of U+259C all sets
+- adjusted right sidebearing U+259D all sets
+- decreased width of U+259E all sets
+- decreased width of U+259F all sets
+- increased upper terminal position to 1950 units U+2580 all sets
+- increased upper terminal position to 1950 units U+2588 all sets
+- increased upper terminal position to 1950 units U+2589 all sets
+- increased upper terminal position to 1950 units U+258A all sets
+- increased upper terminal position to 1950 units U+258B all sets
+- increased upper terminal position to 1950 units U+258C all sets
+- increased upper terminal position to 1950 units U+258D all sets
+- increased upper terminal position to 1950 units U+258E all sets
+- increased upper terminal position to 1950 units U+258F all sets
+- increased upper terminal position to 1950 units U+2590 all sets
+- increased upper terminal position to 1950 units U+2594 all sets
+- increased upper terminal position to 1950 units U+2595 all sets
+- increased upper terminal position to 1950 units U+2598 all sets
+- increased upper terminal position to 1950 units U+2599 all sets
+- increased upper terminal position to 1950 units U+259A all sets
+- increased upper terminal position to 1950 units U+259B all sets
+- increased upper terminal position to 1950 units U+259C all sets
+- increased upper terminal position to 1950 units U+259D all sets
+- increased upper terminal position to 1950 units U+259E all sets
+- increased upper terminal position to 1950 units U+259F all sets
+- reverted Cyrillic lower case es glyph (U+0441) to Latin lower case c shape
+- reverted Cyrillic upper case es glyph (U+0421) to Latin upper case C shape
+
+
+# Version 2.018 (release build)
+
+ttf, otf, webfont builds
+
+Patch for missing glyphs in regular set:
+
+- added U+016C (upper case U breve), regular set - Issue #21
+- added U+016D (lower case u breve), regular set - Issue #21
+
+
+# Version 2.017 (release build)
+
+ttf, otf, webfont builds
+
+Changes vs. release v2.015:
+
+- increased vertical position of the tilde (U+007E) to improve alignment with other glyphs - Issue #23
+- increased width of the vertical stroke on the dollar symbol (U+0024) - Issue #92
+- modified Cyrillic upper case C (U+0421) to differentiate from Latin C - Issues #22 & #29
+- modified Cyrillic lower case c (U+0441) to differentiate from Latin c - Issues #22 & #29
+- modified upper case theta (U+0398) to differentiate from lower case theta - Issue #36
+- added U+0132 (IJ) glyph - Issue #52
+- added U+0133 (ij) glyph - Issue #52
+- added U+013F (upper case L dot) glyph - Issue #52
+- added U+0140 (lower case l dot) glyph - Issue #52
+- added U+0162 (upper case T cedilla) glyph - Issue #52
+- added U+0163 (lower case t cedilla) glyph - Issue #52
+- added U+0138 (kgreenlandic) glyph - Issue #52
+- added U+266A (musical note) glyph - Issue #52
+- added U+0149 (lower case n apostrophe) - Issue #52
+- added U+1EF9 (lower case y tilde) glyph - Issue #102
+- added U+1EF8 (upper case Y tilde) glyph - Issue #102
+- added U+1EBD (lower case e tilde) glyph - Issue #102
+- added U+1EBC (upper case E tilde) glyph - Issue #102
+- added U+2116 (numero) glyph - Issues #22 & #114
+- added U+01A4 (p hook) glyph - Issue #105
+- added U+0108 (upper case C circumflex) - Issue #21
+- added U+0109 (lower case c circumflex) - Issue #21
+- added U+011C (upper case G circumflex) - Issue #21
+- added U+011D (lower case g circumflex) - Issue #21
+- added U+0124 (upper case H circumflex) - Issue #21
+- added U+0125 (lower case h circumflex) - Issue #21
+- added U+0134 (upper case J circumflex) - Issue #21
+- added U+0135 (lower case j circumflex) - Issue #21
+- added U+015C (upper case S circumflex) - Issue #21
+- added U+015D (lower case s circumflex) - Issue #21
+- added U+016C (upper case U breve) - Issue #21
+- added U+016D (lower case u breve) - Issue #21
+- added U+20B7 (spesmilo) - Issue #21
+- fixed missing null glyph (U+0000) in regular, italic, bolditalic sets
+- removed duplicate CR glyph (U+000D) in all sets - Issue #149
+- updated ttfautohint to version 1.4.1 for TrueType (.ttf) build instruction sets
+
+# Version 2.016 (testing build)
+
+- increased vertical position of the tilde (U+007E) to improve alignment with other glyphs - Issue #23
+- increased width of the vertical stroke on the dollar symbol (U+0024) - Issue #92
+- modified Cyrillic upper case C (U+0421) to differentiate from Latin C - Issues #22 & #29
+- modified Cyrillic lower case c (U+0441) to differentiate from Latin c - Issues #22 & #29
+- modified upper case theta (U+0398) to differentiate from lower case theta - Issue #36
+- added U+1EF9 (lower case y tilde) glyph - Issue #102
+- added U+1EF8 (upper case Y tilde) glyph - Issue #102
+- added U+1EBD (lower case e tilde) glyph - Issue #102
+- added U+1EBC (upper case E tilde) glyph - Issue #102
+- added U+2116 (numero) glyph - Issues #22 & #114
+- added U+01A4 (p hook) glyph - Issue #105
+- added U+0108 (upper case C circumflex) - Issue #21
+- added U+0109 (lower case c circumflex) - Issue #21
+- added U+011C (upper case G circumflex) - Issue #21
+- added U+011D (lower case g circumflex) - Issue #21
+- added U+0124 (upper case H circumflex) - Issue #21
+- added U+0125 (lower case h circumflex) - Issue #21
+- added U+0134 (upper case J circumflex) - Issue #21
+- added U+0135 (lower case j circumflex) - Issue #21
+- added U+015C (upper case S circumflex) - Issue #21
+- added U+015D (lower case s circumflex) - Issue #21
+- added U+016C (upper case U breve) - Issue #21
+- added U+016D (lower case u breve) - Issue #21
+- added U+20B7 (spesmilo) - Issue #21
+- updated ttfautohint to version 1.4 for TrueType (.ttf) build instruction sets
+
+
+# Version 2.015 (release build)
+
+ttf, otf, webfont builds
+
+Changes vs. release v2.013:
+
+- new vertical metrics = decreased line spacing height - Issues #28, #32, #39, #41, #95, #103
+- adjusted vertical position of the colon to a higher position, improves alignment with other punctuation glyphs (U+003A) - Issue #66
+- changed vertical position of the dash (U+002D) so that regular and oblique, bold and bold oblique are properly aligned - Issue #107
+- updated hinting algorithm for bold set (improved point position over stem of lowercase j/i for some text sizes) - Issue #84
+- underscore (U+005F) centered, increased width, increased height & aligned vertical position closer to baseline - Issues #97, #98, #100, 103,
+- increased vertical position of dieresis mark on lowercase u dieresis (U+00FC) - Issue #61
+- increased vertical position of dieresis mark on lowercase i dieresis (U+00EF)
+- increased vertical position of dieresis mark on lowercase e dieresis (U+00EB)
+- decreased vertical position of the asterisk (U+002A) - Issue #34
+- new design for ascii tilde - broader curves, taller glyph with goal to improve appearance at small text sizes where it tended to render like a dash (U+007E) - Issue #37
+- new ttf build autohinting script (./postbuild_processing/tt-hinting/autohint.sh)
+- new ttf build autohinting Control Instructions File - bold set (./postbuild_processing/tt-hinting/Hack-Bold-TA.txt)
+- new ttf build release script (./postbuild_processing/tt-hinting/release.sh)
+- new web font release script (./postbuild_processing/webfonts/releasewebfonts.sh)
+- new vfb to UFO source file conversion script (./tools/makeufo.sh)
+- new UFO source file types - includes separate source files for TrueType (`*-TT.ufo`) and PostScript (`*-PS.ufo`) releases
+- source file path changes: now includes separate `ufo` and `vfb` directories under the `./source` repository directory
+- Hack Open Font license updated to version 2.0.  The license changes better define the Hack project as a derivative project of the Bitstream Vera Sans Mono typeface project and are intended to make the license more consistent with the Bitstream Vera libre, open source license under which Hack is co-licensed.  There are no new restrictions on use of the fonts with these license changes.  Embedding permissions are made explicit in this version of the Hack Open Font license.
+
+
+# Version 2.014 (testing build)
+
+- ttf only build for testing
+- updated hinting algorithm for bold set (corrected incorrect point position of lowercase j/i at some sizes) - Issue #84
+- adjusted vertical metrics - Issues #28, #32, #39, #41, #95, #103
+- centered, increased width, & adjusted vertical position of underscore - Issues #97, #98, #100, 103,
+- increased vertical position of dieresis mark on lowercase u dieresis (U+00FC) - Issue #61
+- increased vertical position of dieresis mark on lowercase i dieresis (U+00EF)
+- increased vertical position of dieresis mark on lowercase e dieresis (U+00EB)
+- decreased vertical position of the asterisk (U+002A) - Issue #34
+- new design for ascii tilde (U+007E) - Issue #37
+
+
+# Version 2.013 (release build)
+
+ttf, otf, webfont builds
+
+Changes vs. release v2.010
+
+- Fixed missing middle dot glyph (U+00B7), adjusted width of U+00B7 em box to address spacing issues in editors that highlight empty spaces (Issues #27 & 46)
+- Powerline glyph alignment and size adjustments (Issue #33)
+- Fixed name tables to address:
+	- incorrect oblique rendering with Java type renderers on OS X (Issue #26)
+	- incorrect italic + bold + bold oblique rendering in some syntax highlighters (Issues #42, #50, #60)
+	- backslash character took inappropriate vertical alignment because of incorrect slant angle in some editors (Issue #67)
+- Changed oblique and bold oblique font names to "Hack Italic" and "Hack Bold Italic" to address Windows listings
+- Changed oblique and bold oblique webfont names to "hack-italic-webfont.[xxx]" and "hack-bolditalic-webfont.[xxx]"
+- Changed oblique and bold oblique basic Latin + Latin-1 webfont subsets to the names "hack-italic-latin-webfont.[xxx]" and "hack-bolditalic-latin-webfont.[xxx]"
+- Changed license name from "Modified SIL Open Font License" to "Hack Open Font License" to comply with SIL regulations for SIL Open Font License modifications
+- Removed all license references to SIL to comply with SIL regulations for modifications of the SIL Open Font License
+- Removed SIL Open Font License preamble from the Hack Open Font License to comply with SIL regulations for modifications of the SIL Open Font License
+- Removed the following statement from Hack Open Font License condition #3: "This restriction only applies to the primary font name as presented to the users." to address a reserved font name conflict with the Bitstream Vera license
+- Modified the build directory structure for the Hack web fonts
+- Added Hack webfont CSS files to the build directory
+
+# Version 2.012 (testing build)
+
+- ttf only build for testing
+- Powerline glyph alignment and size adjustments (Issue #33)
+- Fixed name tables to address:
+	- incorrect oblique rendering with Java type renderers on OS X (Issue #26)
+	- incorrect italic + bold + bold oblique rendering in some syntax highlighters (Issues #42, #50, #60)
+	- backslash character took inappropriate vertical alignment because of incorrect slant angle in some editors (Issue #67)
+
+# Version 2.011 (testing build)
+
+- ttf only build for testing
+- fixed missing middle dot glyph (U+00B7), adjusted width of U+00B7 em box to address spacing issues in editors that highlight empty spaces (Issues 27 & 46)
+
+
 # Version 2.010
 
 ### New Glyphs
@@ -102,7 +444,7 @@
 - Modified **dotlessi** - decreased width of horizontal stem
 - Modified **iacute** - decreased width of horizontal stem
 - Modified **icircumflex** - decreased width of horizontal stem
-- Modified **idieresis** - decreased width of horitontal stem
+- Modified **idieresis** - decreased width of horizontal stem
 - Modified **igrave** - decreased width of horizontal stem
 - Modified **imacron** - decreased width of horizontal stem
 - Modified **iogonek** - decreased width of horizontal stem
